@@ -2,7 +2,7 @@
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/codedgar/Catppuccin-WordPress)](https://github.com/codedgar/Catppuccin-WordPress/releases)
 [![License](https://img.shields.io/github/license/codedgar/Catppuccin-WordPress)](LICENSE)
-[![userstyles.world](https://img.shields.io/badge/userstyles.world-install-blue)](https://userstyles.world/style/style-id)
+[![userstyles.world](https://img.shields.io/badge/userstyles.world-install-blue)](https://userstyles.world/style/24435/catppuccin-macchiato-wordpress-admin-dark-mode)
 [![Stars](https://img.shields.io/github/stars/codedgar/Catppuccin-WordPress?style=social)](https://github.com/codedgar/Catppuccin-WordPress/stargazers)
 
 A comprehensive dark theme that applies the [Catppuccin](https://github.com/catppuccin/catppuccin) Macchiato color palette to the entire WordPress admin interface.
@@ -29,7 +29,7 @@ The easiest way to use this theme without modifying your WordPress installation:
    - [Firefox](https://addons.mozilla.org/firefox/addon/styl-us/)
 
 2. Install the theme:
-   - ~~**From userstyles.world**: [Click here to install](https://userstyles.world/style/style-id)~~ Not available yet
+   - **From userstyles.world**: [Click here to install](https://userstyles.world/style/24435/catppuccin-macchiato-wordpress-admin-dark-mode) Not available yet
    - **From GitHub**: [Install directly](https://raw.githubusercontent.com/codedgar/Catppuccin-WordPress/main/stylus/macchiato.user.css)
 
 3. The theme will automatically apply to any WordPress admin interface you visit
@@ -177,7 +177,7 @@ Contributions are welcome! If you find areas that aren't properly styled or have
 - [Report a Bug](https://github.com/codedgar/Catppuccin-WordPress/issues)
 - [Request a Feature](https://github.com/codedgar/Catppuccin-WordPress/issues)
 - [Catppuccin Organization](https://github.com/catppuccin)
-- ~~[userstyles.world Page](https://userstyles.world/style/style-id)~~
+- [userstyles.world Page](https://userstyles.world/style/24435/catppuccin-macchiato-wordpress-admin-dark-mode)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
