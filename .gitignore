@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts
+*.zip
+node_modules/
+
+# WordPress
+wp-content/
